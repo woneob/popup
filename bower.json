@@ -13,6 +13,9 @@
       "web": "https://github.com/woneob/popup/issues"
   },
   "github": "https://github.com/woneob/popup",
+  "dependencies": {
+    "jquery": ">=1.9"
+  },
   "main": "./popup.js",
   "keywords": [
     "popup",
