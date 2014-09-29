@@ -1,0 +1,22 @@
+{
+  "name": "popup",
+  "version": "0.0.1",
+  "homepage": "https://github.com/woneob/popup",
+  "authors": [
+    "1UP <1up@1upz.com>"
+  ],
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/woneob/popup.git"
+  },
+  "bugs": {
+      "web": "https://github.com/woneob/popup/issues"
+  },
+  "github": "https://github.com/woneob/popup",
+  "main": "./popup.js",
+  "keywords": [
+    "popup",
+    "window"
+  ],
+  "license": "MIT"
+}
